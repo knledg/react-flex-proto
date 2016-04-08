@@ -1,0 +1,30 @@
+{
+  "name": "react-flex-proto",
+  "version": "1.0.0",
+  "description": "React Flexbox Implementation For Quickly Prototyping",
+  "main": "dist",
+  "scripts": {
+    "prepublish": "make dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knledg/react-flex-proto.git"
+  },
+  "keywords": [
+    "react",
+    "flexbox"
+  ],
+  "author": "Jason Walsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knledg/react-flex-proto/issues"
+  },
+  "homepage": "https://github.com/knledg/react-flex-proto#readme",
+  "peerDependencies": {
+    "react": ">=0.14.0"
+  },
+  "devDependencies": {
+    "babel": "^5.8.38"
+  }
+}
